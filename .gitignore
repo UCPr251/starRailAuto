@@ -1,0 +1,5 @@
+.vscode
+*.exe
+/*.ini
+/test*.ahk
+/历史版本
